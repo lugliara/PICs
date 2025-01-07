@@ -1,7 +1,7 @@
 # Analysis of Motor Unit Excitability Using Linear Mixed-Effects Models
 
 ## Overview
-This repository contains the R script and data for analyzing motor unit data from our study on the influence of different protocols of isometric handgrip remote contractions on tibialis anterior motoneuron excitability. The results contribute to a deeper understanding of neuromodulatory mechanisms in motor control.
+This repository contains the R script and data for analyzing motor unit data from our study on the influence of different protocols of isometric handgrip remote contractions on tibialis anterior motoneuron excitability. The results contribute to a deeper understanding of neuromodulatory mechanisms (e.g., persistent inward currents - PICs) in motor control.
 Generated figures have been included in this repository for verification and visualization purposes.
 
 ## Repository Structure
