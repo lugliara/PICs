@@ -10,7 +10,7 @@ Generated figures have been included in this repository for verification and vis
 - **`Figures/`**: Includes output PNG images of *delta F*, *brace height* and *attenuation slope*, providing visual representations of the results.
 
 ## How to Run
-1. Download and install [RStudio](https://posit.co/download/rstudio-desktop/) (version 2023.06.0+421 or newer).
+1. Download and install [RStudio](https://posit.co/download/rstudio-desktop/) (version 2024.12.1 or newer).
 2. Clone or download this repository and extract the files.
 3. Place the `Data/` folder in your working directory or set your working directory to the extracted repository folder using:
    ```R
@@ -21,7 +21,7 @@ Generated figures have been included in this repository for verification and vis
 ## Dependencies
 
 This script requires the following R packages, which are already loaded in the script:  
- `readxl`, `naniar`, `visdat`, `dplyr`, `tidyverse`, `ggplot2`, `lmerTest`, `emmeans`, `janitor`, `cowplot`, `lme4`, `car`, `rmcorr`, `psycho`, `sjstats`, `pwr`, `viridis`, `MuMIn`, `merTools`, `broom.mixed`, `ggpp`, `writexl`, `optimx`, `misty`, `magrittr`.
+ `readxl`, `naniar`, `visdat`, `dplyr`, `tidyverse`, `ggplot2`, `lmerTest`, `emmeans`, `janitor`, `cowplot`, `lme4`, `car`, `rmcorr`, `psycho`, `sjstats`, `pwr`, `viridis`, `MuMIn`, `merTools`, `broom.mixed`, `ggpp`, `writexl`, `optimx`, `misty`, `magrittr`, `robustlmm`.
 
 ## Contact
 
