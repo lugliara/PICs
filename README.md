@@ -15,7 +15,7 @@ Generated figures have been included in this repository for verification and vis
 3. Place the `Data/` folder in your working directory or set your working directory to the extracted repository folder using:
    ```R
    setwd("path_to_repository")
-4. Open `Script_PICs_remote_contraction.R` in RStudio and execute the script line by line.
+4. Open `Script_PICs_rlmm.R` in RStudio and execute the script line by line.
 5. Ensure all dependencies (listed below) are installed in your R environment.
 
 ## Dependencies
